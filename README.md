@@ -46,5 +46,8 @@ We are currently looking for contributors in the following areas:
  [ ] Mathematical Proofs & Formalization: Quantifying phase transition thresholds during Phase 3 (Thermodynamic Baking).
  [ ] Empirical Metrics: Developing quantitative survey metrics for measuring node alignment in Phase 1 (Triangle Game).
  [ ] Software Tooling: Open-source visualization engines for mapping multi-node Pizza architectures.
+
+Pizza master :
+ 
 📄 License
 This theoretical framework and methodology are released under the MIT License.
